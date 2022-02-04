@@ -17,7 +17,7 @@
             },
             {
                 "arabe": "",
-                "traduction": "Ilâ mâ tah talîna bi kayyi qalbî Bi nâril fiubbi kayyan ghay-ra hûni",
+                "traduction": "Ilâhi yâ ilâhi yâ ilâhi ilâhi tawbatan qabla-l Manûni",
                 "francais": ""
             },
             {
@@ -459,7 +459,849 @@
         ]
     },
     {
-        "Adabul Masjid": [  
+        "Adabul_Masjid": [  
+                        {
+                            "Arabe" :"1 Lorem ipsun dolor",
+                            "Francais" : "1 – Celui qui veut entrer dans une mosquée, doit avoir les attitudes suivantes :",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"2 Lorem ipsun dolor",
+                            "Francais" : "2 – Etre convaincu que celle-ci est Temple de Dieu et que celui qui y pénètre est bien son hôte.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"3 Lorem ipsun dolor",
+                            "Francais" : "3 – Dans une mosquée, un fidèle est, sans nul doute, un hôte de Dieu, comme le hadith l’a bien dit.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "4 – Or, tout hôte a l’impérieux devoir de traiter son visiteur avec certes tous les honneurs.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" :" 5 – Il doit y accomplir une prière de deux « rakaas », si c’est pendant les heures autorisées.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"1 Lorem ipsun dolor",
+                            "Francais" : "6 – Si ce n’est le moment, il faut qu’il récite en lieu et place, les « salutations pieuses » (Subhânallahh, Wal hamdoulilah, wa Lâ ilaha ila lâh, wallâhou akbar 4 fois).",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"2 Lorem ipsun dolor",
+                            "Francais" : "7 – Et bien rapporté du prophète d’Allah, Salut et Paix du Créateur sur lui.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"3 Lorem ipsun dolor",
+                            "Francais" : "8 – « Qu’aucun de vous ne s’assoie dans une mosquée sans tout d’abord la saluer par deux rakaas ».",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "9 – Il s’y doit de garder tous ses membres de commettre des péchés ou tout ce qui n’est agréé.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "10 – Car c’est en fonction du lieu et du temps que croit la dévotion et s’aggrave la transgression",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"1 Lorem ipsun dolor",
+                            "Francais" : "11 – Que son intention y soit d’attendre l’heure de la prière ; il en sera rétribué.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"2 Lorem ipsun dolor",
+                            "Francais" : "12 – Car celui qui y attend la prière est coe l’officiant, s’il n’y fait autre chose.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"3 Lorem ipsun dolor",
+                            "Francais" : "13 – Consulte le hadith : « Aucun pari vous ne cessera… », tu comprendras ce que j’ai dit.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "14 - Les ablutions faites à des moments pénibles, éfface les fautes en absolvant les péchés.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "15 - Ainsi que la fréquentation de mosquées distantes, Gloire à notre seigneur, le Généreux, le Prodigue.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"1 Lorem ipsun dolor",
+                            "Francais" : "16 – Il en est de même y attendre la prière. Tout ceci peut consolider que c’est grand.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"2 Lorem ipsun dolor",
+                            "Francais" : "17 – Qu’il ait l’intention de bien y augmenter solennité et le nombre de fidèles s’y trouvant.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"3 Lorem ipsun dolor",
+                            "Francais" : "18 – Dans un Hadith, notre guide a bien dit : « Qui accroit le nombre d’un peuple en se mettant sous l’abri du Tout- Puissant triomphera ».",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "19 – « Chacun avec celui qu’il aime » est un hadith annonçant bonne nouvelle aux compagnons.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "20 – Ceci avec l’intention de mettre en relief les pratiques cultuelles ainsi que la servitude.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"1 Lorem ipsun dolor",
+                            "Francais" : "21 – De se libérer de tout autre activité en se mettant sous l’abri du Tout-Puissant.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"2 Lorem ipsun dolor",
+                            "Francais" : "22 – Que de châtiments Dieu détourne grâce à ceux qui peuplent sa maison sans nul doute.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"3 Lorem ipsun dolor",
+                            "Francais" : "23 – Et à ceux qui implorent son pardon, déjà à l’aube, tél du Prophète rapporté.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "24 – S’il y apprend ou écoute le savoir, il en sera rétribué comme l’étudiant.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "25 – Avec une intention louable mâme si , il n’y trouve nullementcela. N’en doute pas.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"1 Lorem ipsun dolor",
+                            "Francais" : "26 – Assister à une séance de cours est de loin plus méritoire que de rendre visite à mille malades.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"2 Lorem ipsun dolor",
+                            "Francais" : "27 – Cela a aussi plus de mérite que d’assister à un millier de funérailles sans conteste.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"3 Lorem ipsun dolor",
+                            "Francais" : "28 – Et à un millier de pèlerinages, ou d’ « Umra ». Que Dieu nous inspire meilleur œuvre.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "29 – Assister à l’exposé d’un savant est préférable, auprès du Tout-Puissant.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "30- A la dévotion d’un serviteur quarante ans. Ö compagnon ! Comprends bien l’explication.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"1 Lorem ipsun dolor",
+                            "Francais" : "31- Apprendre un chapitre d’une discipline est assurément plus méritoire que mille « rakaas ».",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"2 Lorem ipsun dolor",
+                            "Francais" : "32 – Si tu apprends pour un autre but que le Seigneur, sache que cette connaissance ne sera pas pour Dieu.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"3 Lorem ipsun dolor",
+                            "Francais" : "33- Cherches y la bénédiction des gens de bien, de religion , de vertu, et du pourvoi.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "34 – N’est pas exhaustive cette énumération d’intention mais elle peut sufire au bien intentionné.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "35 – En dehors de ça, voici les bonnes manières, prends en soin ! Tu arriveras en Donateur.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"1 Lorem ipsun dolor",
+                            "Francais" : "36 – Car si c’est par des actions qu’on va au paradis, c’est par les Bonnes Manières qu’on arrive à Dieu.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"2 Lorem ipsun dolor",
+                            "Francais" : "37 – C’est par le pied droit qu’on entre dans la mosquée pour en sortir par le pied gauche ; Ö cher ami.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"3 Lorem ipsun dolor",
+                            "Francais" : "38 – L’inverse pour les toilettes, mais chez toi, c’est avec le pied droit, aussi à chaque action.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "39 – Déchausse avant le pied gauche et pose- le sur ta chaussure. Ecoute bien, cher compagnon.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "40 – Par la suite déchausse le pied droit pour l’introduire le premier en ferveur.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "41 – Suivra bien ton pied gauche ; deux Sunnah ainsi réaliés avec de bonnes manières.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "42 – Déchausser d’abord le pied gauche, puis mettre le pied droit en entrant, Comprends bien.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "43 – C’est à ce moment que tu devras dire : Au nom de Dieu ! Paix sur l’Envoyé !",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "44 – « Pardonne mes fautes, seigneur ouvre moi grande les portes de ta miséricorde ».( Bismillahi wa salatou wa salamou 'ala rassoulillah, Allahoumma ftahli abwabi rahmatika).",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "45 – Avec la ain gauche, tu reprends tes chaussures, secoue-les avec soin, à la porte de la mosquée.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "46 – Nettoie-les jusqu’à être sûr qu’elles sont devenues propres, tu seras respectueux.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "47 – Quiconque fait ains tel qu’il est rapporté, entendra dire : « Entre et tu sois pardonné ».",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "48 – Combien nombreux sont ceux qui se targuent de savoir, et qui avec la ain droite tiennent leurs chaussures en entrant dans la mosquée !",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "49 – Et leur livre avec la main gauche alors que cela est défendu ! Evite donc tout reproche !",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "50 – En sortant dit également : Au Nom de Dieu ! Salut sur le Prophète qui fit ascension ;",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "51 – Seigneur ! pardonne mes fautes et ouvre moi les portes de ta Grâce et de tes Bienfaits. (Bismillahi wa salatou wa salamou 'ala rassoulillah, Allahouma ikhfirlî zeunebî Waftah lî abwâbi fadlika).",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "52 Dirige-toi vers la Qibla, le regard baissé, la voix basse. N’y fais point de poème.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "53 – Evite bien de t’appuyer sur le livre ( le Coran) en te levant, tu seras bien inspiré.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "54 – garde toi d’y taper des mains où même de faire autre chose que d’invoquer Dieu ou lire le Coran.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "55 – Car la conversation y mange les bienfaits toutcome le fu consume le bois. C’est déjà dit.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "56 – Recevra des anges celui qui y converse trois noms dont celui e maudit.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "57 – Premièrement à chaque fois qu’il parlera, il est nommé « Ami de Dieu », deuxièmement, c’est bien « Honni de Dieu ».",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "58 – C’est l’appellation « Maudit de Dieu », le dernier nom appliqué à l’ipertinent.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "59 – L’Envoyé de Dieu, le prophète, salut et paix, tel que l’agréenotre Seigneur prédisait :",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "60 - Il viendra un temps ou des gens s’assiéront dans les mosquées, se regroupant :",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "61 – Ils ne parleront alors que du bas-monde. Mais nullement le seigneur n’aura cure d’eux !",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "62 – Ne vous asseyez point pari eux, car ils sont bien loin de ton Seigneur..",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "63 – Ce sont ceux qui n’auront aucune part dans l’au-delà ainsi que raporté par le Prophète.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "64 – on ne leur acceptera ni rachat, ni rançon. Que Dieu nous préserve de cette épreuve !",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "65 – Leurs prières, Ö mortel, plliées come un vêtement, leur seront violemment jetées au visage.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "66 – Et ils rentreront chez eux tous bredouilles, méritant, tous de surcroit, damnation.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "67 – A moins qu’ils ne fassent amende honorable, celle que Dieu accepte bien évidemment.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "68 – Quand avait dit Ibn Abbâs au Prophète(SAWS) : » Nous sommes contraints de parler dans la mosquée c’est une nécessité ».",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "69 – Le prophète lui dit en de belles paroles. (Salut et paix de notre Seigneur tous sur lui).s",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "70 – « Dans une mosquée, on s’asseoit face au Seigneur », si tu respectes, on te respectra sans nul doute.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "71 – Ibn abbâs s’évertuera toute une année, pour obtenir du Prophète (SAWS), le pardon.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "72 – Mais imperturbable demeura celui-ci ; tous furent étonnés pour une si longue durée.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "73 – Quant aux rires dans les mosquées, ils seront des ténèbres dans la tombe. Suis bien les conseils.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "74 – Seigneur, puisse s-tu nous faciliter la pratique des bonnes manières et l’accés à ta bonne Grâce.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "75 – Après avoir purifié nos intentions ; Puisses- tu ne décevoir Seigneur, nos espoirs.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "76 – Seigneur ! Accorde le Salut et la paix à Muhammad, aux siens et éminents.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        }
+        ]
+    },
+    {
+        "ABADA_BURUQ": [ 
+                        {
+                            "Arabe" :"1- أبدا بروق تحت جنح ظلام أم وجه مية أم ربوع شمام",
+                            "Francais" : "1°) A la faveur de l’obscurité parmi ces trois éléments lequel m’a –il ébloui : l’éclair, le visage de Mayya ou les campements de la Syrie (Chàm) ?",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"2- إن الربوع بشارتي وأمانتي وربيع قلبي وهى خير شيام",
+                            "Francais" : "2)Ces campements représentent certes pour moi source de joie et de sécurité. Et le printemps de mon cœur en est la marque distinctive la meilleure.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"3- والدمع إذ بعدت ربوع ربوعنا جار وجارح منحر بسهام",
+                            "Francais" : "3°) Quelle que soit la distance, les larmes de passions[1] coulent à flots en blessant, a l’instar de la flèche qui a atteint sa cible.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4- مه عاذلي لو حزت علما لم تلم هل عذل مثلي لم يكن بحرام",
+                            "Francais" : "4°) Même si tu en sais quelque chose abstient-toi de formuler des blâmes à mon endroit. Car, il apparaît manifeste que je suis tout à fait excusable.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5- ملأ الفؤاد قضاة شوقي والهوى ألما ووجدا يا لطول هيام",
+                            "Francais" : "5°) Mon amour[2] ne cesse de s’accroître alors que les censeurs pensent m’accabler de chagrins et de douleurs",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"6- يا عاديا يعلو السناد فبلغن سلعا وسل عن جيرتي بسلام",
+                            "Francais" : "6°) Oh toi le matinal, ta perplexité semble atteindre son paroxysme.Dès lors, prend le chemin de Médine et questionne mes voisins en toute quiétude.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"7- فأربع على مجنون ليلى إن لي داء دويا ما أبل سقام",
+                            "Francais" : "7°) Soit indulgent envers moi. Car, je suis semblable à Majnun Layla[3]. En effet, l’amour du Prophète (PSL) est la seule maladie grave qui me ronge. Et c’est lui seul qui peut en même temps soulager ma passion.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"8- واقرأ سلاما تفشيه من حب إلى ناس هديت همام",
+                            "Francais" : "8°) Et transmets à l’occasion un salut fraternel, prélude pour divulguer publiquement mon amour qui est à même d’ébranler les plus intrépides.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"9- بين لهم تبيين بر صادق إني بهم حلف الجوى وغرام",
+                            "Francais" : "9°) Mieux, clarifie pour tous un amour sincère de ma part. Je suis pour la circonstance, un allié inconditionnel de la passion.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"10- يا رب ليل بت سامر أنقد متجاوبا متساجلات حمام",
+                            "Francais" : "10°) Combien de nuits j’ai passées sans fermer les yeux, mû par l’amour prophétique, me posant des questions et enregistrant les réponses à chaud",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"11- أرعى الكواكب في الصريم كأنها شدت بأهدابي صمام صمام",
+                            "Francais" : "11°) Nuits pendant lesquelles je contemplais les astres[1] comme s’ils renforçaient silencieusement les pans de l’édifice architectural de mon amour.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"12- عتم ظراف كمل لا كنهم لم يعرفوا النقرى بوقت هشام",
+                            "Francais" : "12°) Généreux, ils l’étaient. D’esprit chevaleresque, les compagnons du Prophète (PSL) faisaient preuve d’affabilité, surtout aux heures de repas.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"13- عدل كرام معدنا لا كنهم نالوا لدى التقسيم خير سهام",
+                            "Francais" : "(13) Justes et équitables de nature, ils ont obtenu la part du lion au moment du partage.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"14- الطيبون معاقدا لاكنهم من جودهم قطرات غيث ركام",
+                            "Francais" : "(14)-En tout lien, ils exhibaient des signes de bonté. Leur libéralité est à l’image des gouttes d’eau d’une abondante pluie.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"15- لا عيب فيهم غير أن جموعهم سم العداة سعود كل إدام",
+                            "Francais" : "(15)-Ils sont incomparables en matière de droiture tout en symbolisant un poison pour l’ennemi.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"16- عسل صفاة معتفون نوالهم ينسون أهلهم لطيب مقام",
+                            "Francais" : "(16)-Sur le plan moral, ils étaient tellement altruistes qu’ils s’oubliaient eux-mêmes intériorisant ainsi des qualités prophétiques.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"17- وهم النجوم لمقتد بسمائهم بدر الدجى منه انجلاء ظلام",
+                            "Francais" : "(17)-Ils représentaient des étoiles brillantes dans le ciel assombri au début de la prophétie.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"18- شمس الهدى منه نهار وجودنا أكرم ببدر أول وختام",
+                            "Francais" : "(18)-Le soleil de la rectitude[1] éclaire en un mot notre existence. Qu’il est généreux la pleine lune[2] du début à la fin.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"19- مذ كان أطلع قد أتى فوز لنا والكفر في كفر بدا وسدام",
+                            "Francais" : "19°) Depuis son apparition, il est source de triomphe pour la Umma.Les négateurs de sa mission sont éternellement dans le regret.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"20- أوقى وأوفى قطبنا وإمامنا وزرا وعهدا من جميع أنام",
+                            "Francais" : "20°) Parmi les créatures, notre pôle, notre imam[3] est le plus enclin à préserver l’héritage et à la fidélité au pacte prééternel.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"21- وبخيله وبخيره جلب الورى ولمن أجابوا نيل خير المرام",
+                            "Francais" : "21°) Par ses chevaux et par ses actes de bienfaisance, il a entamé le processus de réalisation de ses vœux.Et tous ceux qui ont positivement répondu à son appel en ont témoigné.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"22- هو سرنا هو نورنا هو مجدنا وهو المشفع عند يوم الخصام",
+                            "Francais" : "22°) Le Prophète (PSL) symbolise à la fin le secret de la Création et de la gloire, la source lumineuse du Créateur et l’intercesseur au jour du Jugement",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"23- وسعادة وأمانة ومكانة ومفازة غنم وخير إمام",
+                            "Francais" : "23°) Il est le meilleur imam, bénéficiaire du bonheur éternel, de la loyauté, d’un rang inégalé et d’une réussite incomparable.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"24- وصبيح صبح فخره متأثل من ءال بيت مصطفين كرام",
+                            "Francais" : "24°) Il symbolise en clarté la candeur de l’aurore. Son honneur renvoie à son ascendance Quraychite.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"25- وضليع فم ثغره كبروق أو حب الغمام لدى ابتداء بسام",
+                            "Francais" : "25°) Sa bouche était d’une rondeur attrayante. Et lorsqu il commençait à sourire, son interstice dentaire, d’une blancheur immaculée ressemblait à de l’éclair ou à de la Grêle.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"26- إبريق سام عنقه قل عرقه كلئالى بل فوقها بمقام",
+                            "Francais" : "26°) Son cou est à l’image d’une cruche bien conçue. Affirme que sa sueur est comparable à des perles précieuses. Plutôt, elles les dépassaient en valeur.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"27- ومر جل سبط العظام مطيب وكأن في العرنين وصف شمام",
+                            "Francais" : "27°) Les cheveux de l’Elu étaient toujours bien peignés. Un parfum exquis exhalait comme si l’air qui sortait de son nez embaumait tout son être.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"28- في كفه خير الشفاء ورحمة إشباع جوع وانهلاك لئام",
+                            "Francais" : "28°) La paume de sa main est source de guérison et de miséricorde. Une poignée de mil du Prophète (PSL) en période de soudure a produit un miracle[1].De même une poignée de sable du Choisi[2] a entraîné la déroute dans le camp ennemi.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"29- في كفه ريح تفوح وتزدرى ريح الخزامى أو صفى مدام",
+                            "Francais" : "29°) De sa paume jaillit une odeur exhaltante, odeur de lavande d’une pureté rarement égalée.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"30- أصحابه قد يرتوون جميعهم وتوضئوا من ماء فيض بنام",
+                            "Francais" : "30°) Ses compagnons, dans leur totalité, se sont désaltérés des eaux provenant de son célébré flux.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"31- وحصاتها قد سبحت تسبيح من حاز الحصاة ففار ما ذمام",
+                            "Francais" : "31°) Les pierres de la Mecque ont entonné toutes ensemble avec le Prophète (PSL) la glorification d’Allah. Aussitôt, une source jaillit comme par enchantement.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"32- وبريقه فيض القليل شفاء دا ء سل عليا كيف ريق إدام",
+                            "Francais" : "32°) Le flux divin a déteint sur sa salive. A ce propos, demande à Alioune Ibn Abi Talib[1] comment il fut guéri de sa maladie.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"33- وبريحه ملح أجاج سلسل أكرم بهادي المهتدين حمام",
+                            "Francais" : "33°) Honore le prototype des vertueux. Car sa salive a produit un enchaînement de sel saumâtre.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"34- سل عتبة ريق النبي المصطفى مص اللسان به انتفاء أوام",
+                            "Francais" : "34°) Questionne Utba[2] sur l’efficience de la salive de l’Elu. Le fait de sucer sa langue a étanché la soif de deux nourrissons[3]",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"35- رضعاؤه رضعا البتول بريقه اس تغنو بعاشوراء يا لإمام",
+                            "Francais" : "35° ) Le jour du Ächoura (Tamkharit), les nourrissons de Fatima La Vierge se sont contentés de sa salive pour se passer du lait maternel.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"36- يا رب من قد سل من عرق النبي أكرم به طيبا بطيب إزام",
+                            "Francais" : "36°) Nombreux sont ceux qui ont bénéficié des vertus salvatrices de la suer du Prophète (PSL) dès lors, aucun parfum ne pouvait égaler cette odeur de sainteté.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"37- طيب وماء قد تسلسل ريقه عسل مذاقته دواء عقام",
+                            "Francais" : "37°) Cette salive produisait à la fin de l’eau douce et du parfum.Cette eau avait un goût mielleux. Aucune maladie, si dangereuse soit elle, ne pouvait lui résister.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"38- وخلوق أفواه لمن بايعناه خمسا نفاه بمضغه للحام",
+                            "Francais" : "38°) Cinq femmes venues lui prêter allégeance, souffraient d’une odeur buccale putréfiable. Un morceau de viande mastiqué par le Prophète (PSL) a eu, pour elles, un effet salvateur.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"39- وبرجله تسكين صخر قل لها أثر متى تمشى فويق إكام",
+                            "Francais" : "39°) En marchant sur le rocher, l’Elu a apaisé ses effets dévastateurs. Et les traces de ses pieds y ont laissé une marque indélébile.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"40- تكفإ يمشى الهوينا لالها في السهل من اثر ولا بشيام",
+                            "Francais" : "40°) Quelle que soit la nature du sol - sur une plaine ou sur du sable fin- sa marche ne laisserait point de trace.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"41- توصيفه بالزهد عين جهالة هل كان إقبال لخير إمام",
+                            "Francais" : "41°) Le décrire comme ascète serait source d’ignorance. Et aller à sa rencontre révèle qu’il est le meilleur guide.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"42- بدر سرى ليلا يناجى ربه وله الإمامة قر عند سلام",
+                            "Francais" : "42°) Le voyage nocturne du Prophète (PSL) a fini par une confidence secrète avec son Seigneur.Sa qualité de guide a été confirmée auprès du Créateur.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"43- أكرم بمن جبريل من خدامه ميكال إسرافيل شمس عيام",
+                            "Francais" : "43°) Honore celui qui compte parmi ses serviteurs Jibril, Mikaël et Isrâfil dont la clarté est supérieure au soleil à son zénith.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"44- هو حامد هو أحمد ومحمد وهو المناجى حاز طيب كلام",
+                            "Francais" : "44°) Il est Hàmid ; il est Ahmad ; il est Muhammad[1]. Il est celui qui a fait l’objet de la confidence nocturne durant laquelle il a reçu la meilleure parole.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"45- ومبشر هاد بشير مرتضى وهو الإمام لمسجد وصرام",
+                            "Francais" : "45°) Annonceur de bonnes nouvelles, guide bénéficiant des bonnes grâces du Seigneur, le Prophète (PSL) est l’imam incontesté tant à la mosquée qu’en période de guerre.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"46- ومخير يختار نيل عبودة لهوان دار هي شر مقام",
+                            "Francais" : "46°) Le Préféré a choisi la meilleure forme d’adoration (celle d’Allah) compte tenu du caractère dédaigneux de cette vie terrestre.[1] Hàmid signifie celui qui rend grâce à Dieu ; Ahmad : le digne de louanges ; Muhammad : le loué",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"47- وله إمام من تنهج نهجه يسلك إماما كان خير إمام",
+                            "Francais" : "47°) Celui qui suit la voie de l’imam est bel et bien en train d’emprunter le meilleur chemin.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"48- من قال مثل البدر يا جهلا له أو لم يكن من نور طب إزام",
+                            "Francais" : "48°) Qu’il est sot celui qui ne veut pas imiter la pleine lune ou bien il ne bénéficie pas d’une bonne ascendance.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"49- بدر تمنى الأنبياء مقامه ولقائه إذ جات نيل مرام",
+                            "Francais" : "49°) Pleine lune symbolisant le point de mire de tous les Prophètes qui souhaiteraient le rencontrer lors de l’ascension nocturne.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"50- فصل يكون لأصله حمد إذا ما راء ساق العرش خير أسام",
+                            "Francais" : "50°) Individualité dont l’origine remonte à la glorification.Le meilleur des noms lui vient de la proximité du Trône.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"51- شمس الضحى أملت عشير ضيائه إذ فاتها اتمرت لأمر الإمام",
+                            "Francais" : "51) Le soleil, au quart de sa course, envierait le dixième de la lumière prophétique s’il se conforme à l’ordre divin.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"52- ولها حياء في بروز ظلالها من نوره كبروز ظل غمام",
+                            "Francais" : "52°) Il éprouve une certaine confusion à apparaître concomitamment avec la clarté prophétique ; et cela à l’instar des nuages qui disparaissent dès l’apparition de la lune.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"53- وانشق بدر إذ تمنى خائبا ليكون من خدام خير كرم",
+                            "Francais" : "53. La lune s’est pourfendue lorsqu’elle fut désenchantée de faire partie des serviteurs du meilleur des plus honorés.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"54- ليث به صار الليوث كقرده واللسن قد صاروا به كفدام",
+                            "Francais" : "54°) Si métaphoriquement le Prophète (PSL) est assimilé à un lion, les vrais rois de la brousse deviennent ipso facto des singes.Et en matière de rhétorique, tous les spécialistes bégaieraient devant lui.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"55- إن النعامة في إتباع نعامة تبعت نعامته مريد سلام",
+                            "Francais" : "55°) Tout aspirant à une paix véritable adopterait la Sunna prophétique comme méthode de vie",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"56- من عاق إيمانا ففي أيمانهم ما يدفعون عناد غير إدام",
+                            "Francais" : "56) Celui qui s’en détourne s’obstine inexorablement vers l’infidélité.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"57- فئة رضى قد بايعوه لربهم ورضاهم مولاهم بإمام",
+                            "Francais" : "57°) Nombre de compagnons, mus par l’agrément divin, lui ont prêté serment d’allégeance. Leur satisfecit demeure le corollaire du Coran.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"58- قوم أنوف آنفوا لغير ما يرضى إلها غافرا بدوام",
+                            "Francais" : "58°) Ce sont des hommes dignes qui rejettent tout ce qui est à l’encontre de l’agrément divin. Car Allah est éternel pardonneur.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"59- إن كنت باك فابك أصحاب النبي ما دمت باق سرت خير نظام",
+                            "Francais" : "59°) S’il y a à attiser, il faudra déplorer la disparition des compagnons du prophète (PSL) tant qu’il te restera un soufflé de vie. Dès lors tu adopterais la meilleure discipline.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"60- وبصاحب الخاتم خاتم الأنبياء فامنن علينا رب حسن ختام",
+                            "Francais" : "60°) Oh Allah par la grâce du dépositaire de l’anneau, sceau des prophètes, accorde-nous une fin de vie meilleure.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"61- يا منتهى الئامال يا رن الورى إني أتيتك لابسا بآثام",
+                            "Francais" : "61°) Oh Seigneur de l’Univers symbolisant l’acmé (paroxysme) de mes espoirs, je suis venu frapper à votre porte, couvert de péchés.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"62- ثم الصلاة مع السلام تباريا أمد الدهور على شفيع الأنام",
+                            "Francais" : "62°) Tant qu’il y aura vie sur terre, paix et salut complémentaires sur l’intercesseur de la création,",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"63- والآل والصحب الكرام جميعهم ما لاح برق أو بدور ظلام",
+                            "Francais" : "63°) Sur le siens et sur l’ensemble des généreux compagnons tant que l’éclair scintillera au fond des ténèbres. /.",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        }
+        ]
+    },
+    {
+        "taysir": [ 
                         {
                             "Arabe" :"1 Lorem ipsun dolor",
                             "Francais" : "Lorem ipsun dolor Francais",
@@ -489,11 +1331,97 @@
                             "Francais" : "Lorem ipsun dolor Francais",
                             "Traduction" : "Lorem ipsun dolor phonetique",
                             "Audio" : "lorem.mp3"
-                        }
-        ]
-    },
-    {
-        "Taysir": [ 
+                        },
+                        {
+                            "Arabe" :"1 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"2 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"3 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"1 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"2 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"3 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"1 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"2 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"3 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
                         {
                             "Arabe" :"1 Lorem ipsun dolor",
                             "Francais" : "Lorem ipsun dolor Francais",
@@ -695,6 +1623,306 @@
                             "traduction" : "Wal âli wa çahbi akhmâril houfâti wa mane Sabîlahoum salakoù rabbi mine abrâri",
                             "francais" : "Ainsi que sur sa Famille, ses Compagnons, les lunes de la chasteté Et ceux parmi les purs qui suivent leur voie.",
                             "audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"1 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"2 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"3 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"1 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"2 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"3 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"1 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"2 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"3 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"1 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"2 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"3 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"1 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"2 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"3 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"1 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"2 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"3 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"1 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"2 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"3 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"1 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"2 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"3 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"1 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"2 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"3 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"1 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"2 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"3 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Lorem ipsun dolor phonetique",
+                            "Audio" : "lorem.mp3"
                         }
     
         ]
