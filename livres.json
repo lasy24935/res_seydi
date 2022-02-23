@@ -1301,6 +1301,226 @@
         ]
     },
     {
+        "fanadjina": [ 
+                        {
+                            "Arabe" :"1 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Fanajina yakhalikha chaytani",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"2 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : " Mine kayedihi wa salabil’ imani",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"3 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Wa jawerati soul’tani wal jirâni",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Yarabana walaf hati iirani",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Wakouli mouh’diline ani tahati",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"1 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Yarabana fakh’di lanal hajâti",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"2 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Wa chari kouli hassidine wa ha sidah ",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"3 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Wa kayedi kouli ka idine wa kayedah",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Wa moufssidi bidini wal khira ah",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Yarabana wa moujibi chakhawah",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"1 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Wa sikh’toul bilahi wa bil’ kitabi",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"2 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Wa bi nabiyil moustapha awabi",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"3 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Ad’ ou bismilahi wal massani",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Wa ayatil koursi’yi zil mahâni",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Wa souratil ikhelassi zi tam’jidi",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"1 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Wa faza mane mâta maha taw’hidi",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"2 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Wa mane da’hâ bizi alal yakhî ni",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"3 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Youjabi mâ rama minal matini",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Moujibou ya Moujibou ya Moujibou ",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Fakh’bal douha a wajiline kharibou",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"1 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Nass’ alouka taslîma bil khada i ",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"2 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Wa sab’ra wa rida ladal bala’i",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"3 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Bil moustapha chafi i koulal khalkhi",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : " Sabite ilahi manetikhi bil khakhi",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Azeka salati lahi wa tas’limi",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"2 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Ala lezi bouchira bi tasenimi",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"3 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Wa alihi wa sakhebihil khara i",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Wa tabi ina souma aweliya’i",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Ya rabana ya maliklal kawenayeni",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"2 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Khina ilahi charafi daray’ni",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"3 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Amartana lahou ala dini Nabi",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : " Wa houbi chayekhina imami tayebi",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Amina amina asetad’jib’ douha ana",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"3 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Wala toukhayib’ sayyidi raja a ana",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"4 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Ar’joul amana yawmal amanal imana",
+                            "Audio" : "lorem.mp3"
+                        },
+                        {
+                            "Arabe" :"5 Lorem ipsun dolor",
+                            "Francais" : "Lorem ipsun dolor Francais",
+                            "Traduction" : "Ilalimana amanahou mawelana",
+                            "Audio" : "lorem.mp3"
+                        }
+        ]
+    },
+    {
         "taysir": [ 
                         {
                             "Arabe" :"1 Lorem ipsun dolor",
